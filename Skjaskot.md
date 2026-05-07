@@ -1,4 +1,4 @@
-#Gögn
+# Gögn
 
 ![Gogn_tree](/img/Gogn_tree.png)
 
@@ -8,7 +8,7 @@
 ![Group_skra](/img/Group_skra.png)
 
 
-#Heimasvæði Áslaugar
+# Heimasvæði Áslaugar
 
 ![Heimasvæði](/img/Heimasvaedi_aslaug.png)
 
@@ -25,4 +25,4 @@
 
 # Password
 
-![Password](/img/Passwd_skra.png)
+![Password](/img/passwd_skra.png)
