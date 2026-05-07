@@ -14,7 +14,7 @@ Fyrst þarf að fara hingað [oh my Zsh](https://ohmyz.sh)
 svo er ýtt á gula takkan install oh my zsh
 eftir það þarf að velja *install with wget* sem er ekki default þegar er ýtt á install eins og sést hér á myndinni fyrir neðan
 
-![ohmyzshdownload](/Pictures/Screenshots/oh_my_zsh_download.png
+![ohmyzshdownload](/img/oh_my_zsh_download.png)
 
 svo þarf að kópera kóðan og keyra í terminallinu sem ásluag þannig skrá sig inn á hana og downloada zsh.
 
@@ -32,7 +32,7 @@ fara neðst niður og breyta skelinni hennar áslaugu í bash
 
 eins og hér 
 
-![Aslaug](/Pictures/Screenshots/Aslaug_zsh.png
+![Aslaug](/img/Aslaug_zsh.png)
 
 ------ 
 
