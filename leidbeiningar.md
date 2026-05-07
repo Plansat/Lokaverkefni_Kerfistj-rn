@@ -4,7 +4,12 @@ Til að búa til áslaugu þarf að gera alveg eins og með alla notendur
 
 > *useradd -m -c "Fullt nafn" -G "Hóparnir sem hún er í muna að hafa **SUDO** með hér líka" -s /usr/bin/"Skelin sem hún vill nota"*
 
+loka formið á að líta svona út
+
+> *useradd -m -c "Áslaug Hauksdóttir" -G _allir, _forritun, _markadsmal, sudo -s /usr/bin/bash eða zsh*
+
 Skelin sem hún vill nota er ZSH til að setja hana upp þarf að fylgja leiðbeiningunum hér að neðan
+
 
 ##ZSH
 ------
