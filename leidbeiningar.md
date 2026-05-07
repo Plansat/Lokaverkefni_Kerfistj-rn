@@ -2,7 +2,7 @@
 
 Til að búa til áslaugu þarf að gera alveg eins og með alla notendur
 
-> useradd -m -c "Fullt nafn" -G "Hóparnir sem hún er í muna að hafa **SUDO** með hér líka" -s /usr/bin/"Skelin sem hún vill nota"
+> *useradd -m -c "Fullt nafn" -G "Hóparnir sem hún er í muna að hafa **SUDO** með hér líka" -s /usr/bin/"Skelin sem hún vill nota"*
 
 Skelin sem hún vill nota er ZSH til að setja hana upp þarf að fylgja leiðbeiningunum hér að neðan
 
@@ -26,7 +26,7 @@ Ef þetta virkar ekki þá er hægt að fylgja þessum leiðbeiningum hér fyrir
 
 Ef zsh virkar ekki þá ef þið eruð búin að búa til áslaugu þarf að fara inn á etc möppuna og svo gera 
 
-> nano passwd
+> *nano passwd*
 
 fara neðst niður og breyta skelinni hennar áslaugu í bash
 
